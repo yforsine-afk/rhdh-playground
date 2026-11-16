@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: hello-quarkus
   title: Hello Quarkus
-  description: แอปทดลองตัวแรกบน Developer Hub
+  description: แอปทดลองตัวแรกบน Developer Hub ครั้งที่ 2
   tags:
     - quarkus
     - java
