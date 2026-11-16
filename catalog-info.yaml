@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-quarkus
+  title: Hello Quarkus
+  description: แอปทดลองตัวแรกบน Developer Hub
+  tags:
+    - quarkus
+    - java
+  links:
+    - url: https://quarkus.io
+      title: Quarkus Website
+      icon: web
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:guest
